@@ -26,7 +26,7 @@ echo export TG_ID=${TG_ID} >> $HOME/.bash_profile
 source $HOME/.bash_profile
 
 mkdir $HOME/alerts
-wget -O $HOME/alerts/tg-bot.sh https://raw.githubusercontent.com/goto5k/aura-tg-bot/main/tg-bot.sh
+wget -O $HOME/alerts/tg-bot.sh https://raw.githubusercontent.com/goto5k/Aura-alert/main/tg-bot.sh
 chmod +x $HOME/alerts/tg-bot.sh
 break
 ;;
