@@ -7,7 +7,7 @@ chat id (@getmyid_bot)
 
 2 step. 
 ```
-
+curl -s https://raw.githubusercontent.com/goto5k/Aura-alert/main/setup.sh > setup.sh && chmod +x setup.sh && ./setup.sh
 ```
 3 step. 
 
