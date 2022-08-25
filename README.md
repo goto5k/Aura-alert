@@ -9,3 +9,8 @@ chat id (@getmyid_bot)
 ```
 
 ```
+3 step. 
+
+```
+*/1 * * * *  /bin/bash $HOME/alerts/tg-bot.sh
+```
